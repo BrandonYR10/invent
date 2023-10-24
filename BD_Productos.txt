@@ -1,0 +1,4 @@
+12,asda,12212.0,asdad
+33,sadsa,2.5,verdura
+234,asdsad,13.0,dsad
+2,mandarina,4.0,frutas
